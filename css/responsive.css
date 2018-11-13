@@ -51,12 +51,16 @@
     float: none;
   }
 
+  .col-3 p {
+    column-count: 1;
+  }
+
   .border-right {
     border: 0;
   }
 
   #details div {
     height: auto;
-    padding: 20px:
+    padding: 20px;
   }
 }
