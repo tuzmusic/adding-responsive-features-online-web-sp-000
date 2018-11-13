@@ -89,6 +89,6 @@
 
 @media only screen and (max-width: 495px) {
   #logo h2 {
-    visibility: none;
+    visibility: hidden;;
   }
 }
